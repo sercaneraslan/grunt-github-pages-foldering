@@ -10,7 +10,7 @@
 
 module.exports = function(grunt) {
 
-    grunt.registerMultiTask('github_pages_foldering', 'This plugin is create folders recursively for Github URL paths.', function() {
+    grunt.registerMultiTask('github_pages_foldering', 'This plugin is create folders recursively for Github Pages URL paths.', function() {
 
         var index = this.data.index,
             cwd = this.data.cwd,

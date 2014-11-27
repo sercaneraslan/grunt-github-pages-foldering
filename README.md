@@ -1,6 +1,6 @@
 # grunt-github-pages-foldering
 
-> This plugin is create folders recursively for Github URL paths.
+> This plugin is create folders recursively for Github Pages URL paths.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
@@ -79,9 +79,14 @@ grunt.initConfig({
     └── views
         ├── common
         └── homepage
-        ...
-        ..
-        .
+    ...
+    ..
+    .
+├── Gruntfile.js
+└── index.html
+...
+..
+.
 ```
 
 **Project structure (After):**
@@ -94,9 +99,14 @@ grunt.initConfig({
     └── views
         ├── common
         └── homepage
-        ...
-        ..
-        .
+    ...
+    ..
+    .
+├── Gruntfile.js
+└── index.html
+...
+..
+.
 
 └── build
     ├── contact
