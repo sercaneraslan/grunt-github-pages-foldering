@@ -37,7 +37,7 @@ grunt.initConfig({
 #### urls
 Type: `String|Array`
 
-Your Github Pages URLs is here.
+Your Github Pages URLs are here.
 
 #### index
 Type: `String`
