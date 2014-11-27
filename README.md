@@ -1,3 +1,5 @@
+<img align="center" height="260" src="http://gruntjs.com/img/grunt-logo-no-wordmark.svg">
+
 # grunt-github-pages-foldering
 
 > This plugin is create folders recursively for Github Pages URL paths.
