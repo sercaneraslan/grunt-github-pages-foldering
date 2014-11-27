@@ -16,11 +16,12 @@ module.exports = function(grunt) {
             cwd = this.data.cwd,
             dest;
 
+
         // For Each Url
         this.data.urls.forEach(function(url) {
 
             // Destination creating...
-            dest = (cwd ? cwd + '/' : '') + url + '/' + index;
+            dest = (cwd ? cwd + '/' : '') + url + '/' + index.split('/').pop();
 
             // Copying...
             grunt.file.copy(index, dest);
