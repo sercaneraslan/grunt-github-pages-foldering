@@ -1,7 +1,7 @@
 {
   "name": "grunt-github-pages-foldering",
   "description": "This plugin is create folders recursively for Github Pages URL paths.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "homepage": "https://github.com/sercaneraslan/grunt-github-pages-foldering",
   "author": {
     "name": "Sercan Eraslan",
@@ -33,7 +33,7 @@
   "keywords": [
     "github",
     "pages",
-    "plugin",
-    "folder"
+    "folder",
+    "gruntplugin"
   ]
 }
