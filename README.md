@@ -126,4 +126,5 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 2014-11-27   v0.1.0   Release github-pages-foldering task.
+
 2014-11-27   v0.1.1   Fixed minor bug.
