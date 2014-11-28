@@ -16,7 +16,6 @@ module.exports = function(grunt) {
             cwd = this.data.cwd,
             dest;
 
-
         // For Each Url
         this.data.urls.forEach(function(url) {
 
